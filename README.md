@@ -12,5 +12,5 @@ Bikeshare project
 *readme.txt
 
 ### Credits
-*https://pybit.es/refactoring.html
-*https://docs.microsoft.com/en-us/visualstudio/python/refactoring-python-code?view=vs-2019
+* https://pybit.es/refactoring.html
+* https://docs.microsoft.com/en-us/visualstudio/python/refactoring-python-code?view=vs-2019
